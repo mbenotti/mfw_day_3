@@ -1,0 +1,22 @@
+.jumbotron {
+  background-color: pink;
+  }
+.btn-info {
+  hover: green;
+  }
+.well {
+  background-color: blue;
+  color: white;
+}
+
+
+  /*
+On your new branch, create a test site with:
+Nav
+Jumbotron
+Button(s)
+Well(s) with some content
+Basic custom styling
+Create pull request
+Slack me the link to your pull request
+When I give the ok, merge, pull, and delete your branch (both local and github.com)*/
