@@ -1,8 +1,9 @@
 .jumbotron {
   background-color: pink;
   }
-.btn-info {
-  hover: green;
+.btn {
+  border:  solid dark blue 3px;
+  margin-bottom: 5px;
   }
 .well {
   background-color: blue;
